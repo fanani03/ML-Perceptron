@@ -15,12 +15,12 @@ This is an implementation of Perceptron using Softmax for classification. This m
   > 3. lr for the learning rate value 
   > 4. epoch for the number of epoch.
 </div>
-
+<br>
 <div>
   <b> 2. Predict: </b>
   Predicting data can be executed by calling the predict() function, which takes 1 input: list of features. The output is a list of prediction
 </div>
-
+<br>
 <div>
   <b> 3. Accuracy: </b>
   Count the accuracy of list of prediction and list of actual class by calling the accuracy() function. Takes 2 input:
@@ -28,4 +28,5 @@ This is an implementation of Perceptron using Softmax for classification. This m
   > 1. yPredicted for the list of prediction
   > 2. yActual for the list of actual target
 </div>
+<br>
 <hr>
